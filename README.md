@@ -127,4 +127,9 @@ rosbag play ~/dataset/euroc/MH_01_easy.bag
 
 
 
+**本人在校研究内容：**
+
+![](https://i.loli.net/2020/10/20/UnkzA1MsJTKmSYu.jpg)
+
+
 > 感谢香港科技大学[Aerial Robotics Group](http://uav.ust.hk/) [秦通](http://www.qintonguav.com)等人的VINS开源项目
